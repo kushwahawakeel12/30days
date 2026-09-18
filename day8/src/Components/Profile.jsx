@@ -18,6 +18,7 @@ function Profile(){
                 <img style={{backgroundColor:"#ccc",width:"200px",border:"2px solide #ccccc3c"}} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_sH47dHBeNkmS6X97RaxgKrE_NzX4RHAZRkwvYggbcqyIi6WAqnLWngqK&s=10" alt="" />
                 <h3 style={{font:"3px"}}>petter</h3>
                 <h3>software development</h3>
+                <h2>in react js</h2>
             </div>
              <div style={{margin:"7px",  width:"200px",height:"290px",border:"2px solid #e2d5d5",boxShadow:"1px 2px 3px 1px #ccc"}}>
                 <img style={{backgroundColor:"#ccc",width:"200px",border:"2px solide #ccccc3c"}} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_sH47dHBeNkmS6X97RaxgKrE_NzX4RHAZRkwvYggbcqyIi6WAqnLWngqK&s=10" alt="" />
